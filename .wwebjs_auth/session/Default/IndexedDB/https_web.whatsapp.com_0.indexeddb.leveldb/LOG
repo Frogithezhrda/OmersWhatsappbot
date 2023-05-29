@@ -1,0 +1,18 @@
+2023/05/22-20:33:45.279 7560 Reusing MANIFEST C:\Users\food\Downloads\Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-20:33:45.279 7560 Recovering log #10
+2023/05/22-20:33:45.288 7560 Reusing old log C:\Users\food\Downloads\Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000010.log 
+2023/05/22-20:33:45.288 7560 Delete type=2 #9
+2023/05/22-20:33:45.335 2968 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/22-20:33:45.343 3b34 Level-0 table #15: started
+2023/05/22-20:33:45.380 3b34 Level-0 table #15: 73603 bytes OK
+2023/05/22-20:33:45.386 3b34 Delete type=0 #10
+2023/05/22-20:33:45.389 3b34 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/22-20:33:45.390 3b34 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/22-20:33:45.392 3b34 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/22-20:33:45.392 3b34 Manual compaction at level-1 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 10277 : 1
+2023/05/22-20:33:45.392 3b34 Compacting 1@1 + 1@2 files
+2023/05/22-20:33:45.396 3b34 Generated table #16@1: 437 keys, 19660 bytes
+2023/05/22-20:33:45.396 3b34 Compacted 1@1 + 1@2 files => 19660 bytes
+2023/05/22-20:33:45.400 3b34 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/22-20:33:45.400 3b34 Manual compaction at level-1 from '\x00\x0d.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 10277 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/22-20:33:55.721 738 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
